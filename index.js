@@ -1,6 +1,7 @@
 // required packages
 const fs = require('fs');
 const inquirer = require('inquirer');
+const { resolve } = require('path');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
 // user input questions array
@@ -136,26 +137,32 @@ const questions = () => {
 };
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {
-    return new Promise((resolve, reject) => {
-        fs.writeFile('./utils/README.md', fileContent, err => {
-            if (err) {
-                reject(err);
-                return;
-            }
-            resolve({
-                ok: true,
-                message: 'File created!'
-            });
+const writeToFile = fileContent => {
+    fs.writeFile('./README.md', fileContent, err => {
+        if(err) {
+            console.log(err);
+            return;
+        }
+        resolve({
+            ok: true,
+            message: "README created successfully."
         });
     });
 };
 
-// TODO: Create a function to initialize app
-function init() {}
-// ** prompt user for questions
-// ** retrieve data from user input
-// ** push data to writeToFile function
-// ** resolve
-// Function call to initialize app
+// initialize application
+function init() {
+    questions()
+    .then(answers => {
+        return generateMarkdown(answers);
+    })
+    .then(pageMarkdown => {
+        writeToFile(pageMarkdown);
+    })
+    .catch(err => {
+        console.log(err);
+    });
+}
+
+// Function call to initialize application
 init();
