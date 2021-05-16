@@ -39,7 +39,7 @@ function generateLicenseBadge(license) {
   return licenseBadge;
 };
   
-// License Link
+// License Notice
 function generateLicenseNotice(license) {
   switch (license) {
     case "GNU AGPL v3":
