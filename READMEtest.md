@@ -1,10 +1,9 @@
 
-    # answer
+    # [title]
 
     ## Description
-    answer
+    [description]
 
-    # answer
     ## Table of Contents
     * [Installation] (#Installation)
     * [Usage] (#Usage)
@@ -14,22 +13,22 @@
     * [Questions] (#Questions)
   
     ## Installation
-    answer
+    [instructions]
 
     ## Usage
-    answer
+    [usage]
 
     ## License
     GNU AGPLv3
 
     ## Contributing
-    answer
+    [contribution]
 
     ## Tests
-    answer
+    [testing]
 
     ## Questions
     For questions, you can reach me on GitHub at 
-    http://github.com/answer/ or via email at 
-    answer.
+    http://github.com/[mmgleave]/ or via email at 
+    [email].
     

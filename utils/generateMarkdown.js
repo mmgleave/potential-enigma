@@ -20,7 +20,6 @@ function generateMarkdown(data) {
     ## Description
     ${data.description}
 
-    # ${data.title}
     ## Table of Contents
     * [Installation] (#Installation)
     * [Usage] (#Usage)
