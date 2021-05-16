@@ -12,50 +12,34 @@ THEN a high-quality, professional README.md is generated with the title of my pr
 [x] Description 
 [x] Table of Contents 
 [x] Installation 
-[] Usage 
-[] License 
-[] Contributing 
-[] Tests  
-[] Questions
-
-[x] Title (readme title)
-
-[x] Description ("Description")
-[x] Installation instructions ("Installation")
-[x] Usage information ("Usage")
-[x] Contribution guidelines ("Contributing")
-[x] Test instructions ("Tests")
+[x] Usage 
+[x] License 
+[x] Contributing 
+[x] Tests  
+[x] Questions
 
 [x] List of licenses
-    badge for license near top of README
-    notice in section "License" that explains which license the app is covered under
+    [ ] badge for license near top of README
+    [ ] notice in section "License" that explains which license the app is covered under
 
 [x] GitHub Username (in "Questions" section with link)
 
 [x] Email address (in "Questions" with instructions for how to reach me with additional questions)
 
-[] Table of Contents w/ links
+[x] Table of Contents w/ links
+[ ] check that links are working
 
+[ ] A sample README generated using the application must be submitted.
 
+[ ] Your GitHub repository containing your application code.
 
-Grading Requirements
-This Challenge is graded based on the following criteria:
+[ ] A walkthrough video that demonstrates the functionality of the README generator must be submitted and a link to the video should be included in your README file.
 
-Deliverables: 20%
+    [ ] The walkthrough video must demonstrate how a user would invoke the application from the command line.
 
-A sample README generated using the application must be submitted.
+    [ ] The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
 
-Your GitHub repository containing your application code.
-
-Walkthrough Video: 27%
-
-A walkthrough video that demonstrates the functionality of the README generator must be submitted and a link to the video should be included in your README file.
-
-The walkthrough video must demonstrate how a user would invoke the application from the command line.
-
-The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
-
-The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
+    [ ] The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
 
 Technical Acceptance Criteria: 40%
 
