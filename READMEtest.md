@@ -1,31 +1,31 @@
 
-# title
+# This is the Project Title
 
 ## Description
-description
+This is the project description.
 
 ## Table of Contents
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [License] (#license)
-* [Contributing] (#contributing)
-* [Tests] (#Tests)
-* [Questions] (#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
   
 ## Installation
-instructions
+These are the installation instructions.
 
 ## Usage
-usage
+This is the usage information.
 
 ## License
-GNU AGPLv3
+MIT License
 
 ## Contributing
-contribution
+These are the contribution guidelines.
 
 ## Tests
-testing
+These are the testing instructions.
 
 ## Questions
-For questions, you can reach me on GitHub at http://github.com/mmgleave/ or via email at mmgleave@gmail.com.
+For questions, you can reach me on GitHub at http://github.com/username/ or via email at email@gmail.com.
