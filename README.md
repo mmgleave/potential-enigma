@@ -45,18 +45,12 @@ Technical Acceptance Criteria: 40%
 
 Satisfies all of the above acceptance criteria plus the following:
 
-Uses the Inquirer package (Links to an external site.).
-Repository Quality: 13%
-
-Repository has a unique name.
-
-Repository follows best practices for file structure and naming conventions.
-
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-Repository contains multiple descriptive commit messages.
-
-Repository contains a high-quality README with description and a link to walkthrough video.
+[x] Uses the Inquirer package (Links to an external site.).
+[x] Repository has a unique name.
+[x] Repository follows best practices for file structure and naming conventions.
+[x] Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+[x] Repository contains multiple descriptive commit messages.
+[ ]Repository contains a high-quality README with description and a link to walkthrough video.
 
 How to Submit the Challenge
 You are required to submit the following for review:
