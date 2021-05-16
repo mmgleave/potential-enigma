@@ -1,31 +1,31 @@
 
-# Potential Enigma
+# title
 
 ## Description
-A node.js application which can help the user generate a README.md file for their project.
+description
 
 ## Table of Contents
-* [Installation] (#Installation)
-* [Usage] (#Usage)
-* [License] (#License)
-* [Contributing] (#Contributing)
+* [Installation] (#installation)
+* [Usage] (#usage)
+* [License] (#license)
+* [Contributing] (#contributing)
 * [Tests] (#Tests)
-* [Questions] (#Questions)
+* [Questions] (#questions)
   
 ## Installation
-Installation instruction text.
+instructions
 
 ## Usage
-Usage information text.
+usage
 
 ## License
-MIT License
+GNU AGPLv3
 
 ## Contributing
-Contribution guidelines text.
+contribution
 
 ## Tests
-Test instructions text.
+testing
 
 ## Questions
 For questions, you can reach me on GitHub at http://github.com/mmgleave/ or via email at mmgleave@gmail.com.
