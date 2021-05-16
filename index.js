@@ -90,9 +90,9 @@ const questions = () => {
             name: "license",
             message: "Select License: ",
             choices: [
-                "GNU AGPLv3", 
-                "GNU GPLv3", 
-                "GNU LGPLv3", 
+                "GNU AGPL v3", 
+                "GNU GPL v3", 
+                "GNU LGPL v3", 
                 "Mozilla Public License 2.0", 
                 "Apache License 2.0", 
                 "MIT License", 
