@@ -14,7 +14,9 @@ Clone the repository and all files from https://github.com/mmgleave/potential-en
 ## Usage
 Open the application's main directory and open a new terminal. In the terminal, ssing Node.js type the command "node index.js" to initiate the application. The application will then prompt the user for input for the various sections of the README.md file. The new README.md file will be saved as "NewREADME.md" in the app.ication's main directory. Rename and move the NewREADME.md file into your project's directory.
 
-For a video walkthrough visit this site: 
+For a video walkthrough visit this site: https://drive.google.com/file/d/1p_tIynGJs6ea1R09j7xdd1ecMGReVPJG/view or view the video in this repository's "assets" folder.
+
+![Screenshot](assets/potential-enigma-screenshot.jpg)
 
 ## Questions
 For questions, you can reach me on GitHub at http://github.com/mmgleave/ or via email at mmgleave@gmail.com.
